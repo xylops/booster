@@ -1,1 +1,2 @@
 node naive.js
+pause
