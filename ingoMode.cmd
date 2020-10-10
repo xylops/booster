@@ -1,1 +1,1 @@
-node ingoTest.js
+node naive.js
